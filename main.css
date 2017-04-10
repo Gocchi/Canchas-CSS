@@ -1,0 +1,47 @@
+h1{
+	color: pink;
+	text-align: center;
+}
+
+#soccer{
+
+
+	border: 5px solid #F6CEEC;
+	cursor: pointer;
+	font-family:  Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: auto; 
+	text-transform: uppercase;
+	width: 300px;
+
+}
+
+#basquetbol{
+
+	border: 5px solid #F6CEEC;
+	cursor: pointer;
+	font-family:  Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: auto; 
+	text-transform: uppercase;
+	width: 300px;
+
+}
+
+#tennis{
+
+	border: 5px solid #F6CEEC;
+	cursor: pointer;
+	font-family:  Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: auto; 
+	text-transform: uppercase;
+	width: 300px;
+
+}
