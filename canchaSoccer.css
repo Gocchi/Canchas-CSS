@@ -5,17 +5,8 @@
   border: 3px solid white;
   background-color: green;
   margin: 0 auto;
+  display: none;
 }
-}
-
-.margenCancha {
-  width: 250px;
-  height: 100px;
-  position: absolute;
-  border: 4px solid white;
-  margin-top: 50px;
-}
-
 .lineaCentral{
   
   width:0px;
