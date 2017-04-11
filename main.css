@@ -2,6 +2,10 @@ h1{
 	color: pink;
 	text-align: center;
 }
+#cancha {
+	margin: auto;
+	
+}
 
 #soccer{
 
@@ -12,7 +16,7 @@ h1{
 	font-size: 12px;
 	font-weight: bold;
 	height: 30px;
-	margin: auto; 
+	margin: ; 
 	text-transform: uppercase;
 	width: 300px;
 
