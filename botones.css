@@ -1,0 +1,51 @@
+header{
+	text-align: center;
+	color: black;
+	font-size: 60px;
+}
+
+#botones {
+   				
+    position: relative;
+	margin-left: 20%;
+    display: inline-block;
+}
+
+#soccer{
+	
+	border: 5px solid black;
+	cursor: pointer;
+	font-family:  Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: ; 
+	text-transform: uppercase;
+	width: 300px;
+}
+
+#basketball{
+
+	border: 5px solid black;
+	cursor: pointer;
+	font-family:  Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: auto; 
+	text-transform: uppercase;
+	width: 300px;
+}
+
+#tennis{
+
+	border: 5px solid black;
+	cursor: pointer;
+	font-family:  Helvetica;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	margin: auto; 
+	text-transform: uppercase;
+	width: 300px;
+}
