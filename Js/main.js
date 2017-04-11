@@ -14,3 +14,11 @@ var basketball= document.getElementById("basketball");
  	var canchaBasketball= document.getElementById("canchaBasketball");
  	canchaBasketball.style.display="block";
  }	
+
+ var tennis= document.getElementById("tennis");
+ tennis.addEventListener("click", mostrarTennis);
+
+ function mostrarTennis(){
+ 	var canchaTennis=document.getElementById("canchaTennis");
+ 	canchaTennis.style.display= "block";
+ }
